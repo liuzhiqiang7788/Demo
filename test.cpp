@@ -8,6 +8,8 @@ int main()
   
   cout << "add an new line in file" << endl;
   
+  cout << "add an new line in file" << endl;
+  
   return 0;
 }
 
